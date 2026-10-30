@@ -25,6 +25,17 @@ The **SaaS Invoice Platform** provides businesses with full lifecycle invoice ma
 
 ---
 
+## Screenshots
+
+| Tampilan | Preview |
+|---|---|
+| **Dashboard Operasional SaaS Invoice**<br>Ringkasan total pendapatan terselesaikan, saldo tertunggak, rasio faktur lunas, serta tabel faktur terbaru | ![Dashboard Operasional SaaS Invoice](docs/screenshots/01-dashboard-overview.png) |
+| **Pembuat Faktur & Rincian Item**<br>Formulir pembuatan faktur interaktif dengan pemilihan klien, penambahan item produk dinamis, diskon, dan catatan | ![Pembuat Faktur & Rincian Item](docs/screenshots/02-invoice-builder.png) |
+| **Detail Faktur & Buku Besar Pembayaran**<br>Rincian lengkap faktur dengan rincian subtotal, kalkulasi pajak 10%, sisa tagihan, dan riwayat cicilan pembayaran | ![Detail Faktur & Buku Besar Pembayaran](docs/screenshots/03-invoice-detail-payment.png) |
+| **Manajemen Paket Langganan SaaS**<br>Pusat pengelolaan tingkatan paket (Free, Starter, Professional, Enterprise), fitur komparasi, dan status langganan aktif | ![Manajemen Paket Langganan SaaS](docs/screenshots/04-subscriptions-tiers.png) |
+
+---
+
 ## 3. Technology Stack
 
 - **Framework**: Laravel 11/13
